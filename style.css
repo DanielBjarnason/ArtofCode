@@ -75,6 +75,10 @@
     height: 380px;
 }
 
+.card-body {
+    border-radius: 15%;
+}
+
 /* social media icons styling */
 .social-icons {
     font-size: 36px;
