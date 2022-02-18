@@ -69,6 +69,13 @@
     border: 1px solid #008000;
 }
 
+/* portfolio section */
+
+.card-img-top {
+    height: 100px;
+    length: 100px;
+}
+
 /* social media icons styling */
 .social-icons {
     font-size: 36px;
