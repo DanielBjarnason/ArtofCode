@@ -23,10 +23,10 @@
 .hero-text {
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: red;
+    color: grey;
 }
 
 /* spacing on all sections */
@@ -37,6 +37,7 @@
 
 #contact {
     padding-bottom: 4rem;
+    position: absolute;
 }
 
 /* about section image css */
@@ -72,7 +73,8 @@
 /* portfolio section */
 
 .card-img-top {
-    length: 500px;
+    width: 100%;
+    max-width: 30vh;
     border-radius: 30%;
 }
 
