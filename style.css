@@ -72,9 +72,8 @@
 /* portfolio section */
 
 .card-img-top {
-    height: 100px;
-    length: 100px;
-    border-radius: 20%;
+    length: 500px;
+    border-radius: 30%;
 }
 
 /* social media icons styling */
