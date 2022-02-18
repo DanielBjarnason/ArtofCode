@@ -42,6 +42,7 @@
 /* about section image css */
 .imageAboutPage {
     width: 100%;
+    border-radius: 15%;
 }
 
 /* services section css */
