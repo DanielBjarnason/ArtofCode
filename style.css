@@ -71,10 +71,9 @@
 }
 
 /* portfolio section */
-
 .card-img-top {
     width: 100%;
-    max-width: 30vh;
+    height: 380px;
     border-radius: 30%;
 }
 
